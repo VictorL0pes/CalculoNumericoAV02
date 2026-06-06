@@ -5,6 +5,7 @@ Projeto desenvolvido para a 2ª avaliação da disciplina de Cálculo Numérico.
 ## Participantes
 
 - João Victor Martins Lopes
+- Amanda Silva Teixeira
 
 ## Métodos implementados
 
