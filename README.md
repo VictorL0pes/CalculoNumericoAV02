@@ -2,6 +2,10 @@
 
 Projeto desenvolvido para a 2ª avaliação da disciplina de Cálculo Numérico.
 
+## Participantes
+
+- João Victor Martins Lopes
+
 ## Métodos implementados
 
 - Interpolação de Lagrange
