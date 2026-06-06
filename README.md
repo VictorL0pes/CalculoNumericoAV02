@@ -6,6 +6,7 @@ Projeto desenvolvido para a 2ª avaliação da disciplina de Cálculo Numérico.
 
 - João Victor Martins Lopes
 - Amanda Silva Teixeira
+- Eduardo André Santos Barros
 
 ## Métodos implementados
 
